@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mouka</h1>
 <h3 align="center">FR/ENG</h3>
 
-- 🔭 I’m currently working on **Rakoon Production**
+- 🔭 I’m currently working on **MoukaAC Production**
 
 - Allo ? **#uhq**
 
